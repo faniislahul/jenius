@@ -1,6 +1,4 @@
-
-#Contact Book
-
+# Contact Book
 
 ## Before you start
 
